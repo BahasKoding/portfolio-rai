@@ -1,4 +1,4 @@
-# Portfolio Website - Rai Rakhmat
+# Portfolio Website - Rai
 
 <p align="center">
   <img src="./src/assets/img/preview.png" alt="Portfolio Preview" width="100%">
