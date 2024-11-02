@@ -11,7 +11,6 @@ Portfolio website modern yang dibangun dengan React dan Tailwind CSS. Website in
 ## ✨ Fitur Utama
 
 - 🎨 Design modern dan responsif
-- 🌓 Dark theme yang elegan
 - 🎭 Animasi halus dengan Framer Motion
 - ⌨️ Efek typing dengan Typed.js
 - 📱 Mobile-friendly navigation
